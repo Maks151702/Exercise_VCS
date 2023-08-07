@@ -8,5 +8,9 @@ public class Main {
         String typeWood = "Дуб";
 
 
+
+        int height = 10;
+
+        height=+1;
     }
 }
